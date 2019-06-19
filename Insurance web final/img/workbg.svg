@@ -1,0 +1,11 @@
+<svg id="workbg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="892.2" height="892.2" viewBox="0 0 892.2 892.2">
+  <defs>
+    <radialGradient id="radial-gradient" cx="0.5" cy="0.5" r="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#46eeaa"/>
+      <stop offset="1" stop-color="#ff63de"/>
+    </radialGradient>
+  </defs>
+  <circle id="Ellipse_51" data-name="Ellipse 51" cx="446.1" cy="446.1" r="446.1" opacity="0.06" fill="url(#radial-gradient)"/>
+  <circle id="Ellipse_52" data-name="Ellipse 52" cx="363.754" cy="363.754" r="363.754" transform="translate(82.346 82.346)" opacity="0.06" fill="url(#radial-gradient)"/>
+  <circle id="Ellipse_53" data-name="Ellipse 53" cx="271.199" cy="271.199" r="271.199" transform="translate(174.901 174.901)" opacity="0.06" fill="url(#radial-gradient)"/>
+</svg>

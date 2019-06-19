@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="43.2" height="43.153" viewBox="0 0 43.2 43.153">
+  <g id="email" transform="translate(0 0)">
+    <g id="Ellipse_4" data-name="Ellipse 4" fill="none" stroke="#fff" stroke-width="1">
+      <ellipse cx="21.6" cy="21.576" rx="21.6" ry="21.576" stroke="none"/>
+      <ellipse cx="21.6" cy="21.576" rx="21.1" ry="21.076" fill="none"/>
+    </g>
+    <g id="close-envelope" transform="translate(13.2 15.583)">
+      <g id="Group_5605" data-name="Group 5605" transform="translate(0 0)">
+        <path id="Path_2824" data-name="Path 2824" d="M8.337,9.3,6.258,7.484.316,12.572a1.217,1.217,0,0,0,.829.325H15.528a1.208,1.208,0,0,0,.826-.325L10.415,7.484Z" transform="translate(0.063 -0.91)" fill="#fff"/>
+        <path id="Path_2825" data-name="Path 2825" d="M16.357,2.325A1.209,1.209,0,0,0,15.528,2H1.145a1.2,1.2,0,0,0-.827.327L8.336,9.192Z" transform="translate(0.064 -2)" fill="#fff"/>
+        <path id="Path_2826" data-name="Path 2826" d="M0,2.878v9.959L5.8,7.914Z" transform="translate(0 -1.826)" fill="#fff"/>
+        <path id="Path_2827" data-name="Path 2827" d="M9.167,7.914l5.8,4.923V2.875Z" transform="translate(1.833 -1.826)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

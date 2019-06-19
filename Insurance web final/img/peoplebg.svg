@@ -1,0 +1,11 @@
+<svg id="peoplebg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="877.666" height="877.666" viewBox="0 0 877.666 877.666">
+  <defs>
+    <radialGradient id="radial-gradient" cx="0.5" cy="0.5" r="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#5969f6"/>
+      <stop offset="1" stop-color="#29b3ba"/>
+    </radialGradient>
+  </defs>
+  <circle id="Ellipse_51" data-name="Ellipse 51" cx="438.833" cy="438.833" r="438.833" opacity="0.08" fill="url(#radial-gradient)"/>
+  <circle id="Ellipse_52" data-name="Ellipse 52" cx="357.828" cy="357.828" r="357.828" transform="translate(81.005 81.005)" opacity="0.08" fill="url(#radial-gradient)"/>
+  <circle id="Ellipse_53" data-name="Ellipse 53" cx="266.781" cy="266.781" r="266.781" transform="translate(172.052 172.052)" opacity="0.08" fill="url(#radial-gradient)"/>
+</svg>
