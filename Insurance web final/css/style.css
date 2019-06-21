@@ -64,7 +64,7 @@
 
 
 .form-inputs{
-    width: 100%;
+    width: 50%;
     background-color: #ffffff;
     border-radius: 70px;
     box-shadow: 0 2px 35px #00000038;
@@ -1273,6 +1273,27 @@ margin-left: 16%;
 	align-items: center;
 	flex-direction: column;
 }
+
+.quote{
+	text-align: center;
+	margin-top: -45px;
+	background-image: linear-gradient(to right, #FF63DE , #B122E5);
+	border-radius: 70px;
+	box-shadow: 0 2px 35px #00000038;
+	transition: margin-left 1s;
+	color:white !important;	
+	   outline:none;
+	   display: block;
+	   width: 50%;
+	   position: relative;
+	   z-index: 99999;
+	   height: 45px;
+	   line-height: 45px;
+}
+.quote:hover{
+	text-decoration: none;
+}
+
 
 @media screen and (max-width: 943px) {
 	.AboutUs h2{
