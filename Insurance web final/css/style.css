@@ -77,7 +77,7 @@
 	display:flex;
 	align-items:center;
 	height:45px;
-	margin: 1%;
+	margin-top: 35px;
 
 }
 
@@ -99,7 +99,7 @@ background-color:transparent;
 .form-inputs i{
 color:#B122E5;
 font-size:20px;
-	padding-left:20px;
+padding-left:20px;
 
 }
 
@@ -109,16 +109,117 @@ font-size:20px;
 	 box-shadow: 0 2px 35px #00000038;
 	 transition: margin-left 800s;
 	 color:white !important;
-	 	width: 120px;
-		outline:none;
-	margin: 1%;
-
+	 width: 120px;
+	 outline:none;
+	 margin: 1%;
+	height: 45px;
+}
+.up-down{
+	animation: up-down linear 4s;
+	animation-iteration-count: infinite;
+	transform-origin: 50% 50%;
+	-webkit-animation: up-down linear 4s;
+	-webkit-animation-iteration-count: infinite;
+	-webkit-transform-origin: 50% 50%;
+	-moz-animation: up-down linear 4s;
+	-moz-animation-iteration-count: infinite;
+	-moz-transform-origin: 50% 50%;
+	-o-animation: up-down linear 4s;
+	-o-animation-iteration-count: infinite;
+	-o-transform-origin: 50% 50%;
+	-ms-animation: up-down linear 4s;
+	-ms-animation-iteration-count: infinite;
+	-ms-transform-origin: 50% 50%;
 }
 
-.home-btn:hover{
-	margin-left: 5%;
-	transition: all 800ms;
+@keyframes up-down{
+	0% {
+		transform:  translate(0px,10px)  ;
+	}
+	24% {
+		transform:  translate(0px,5px)  ;
+	}
+	50% {
+		transform:  translate(0px,10px)  ;
+	}
+	74% {
+		transform:  translate(0px,5px)  ;
+	}
+	100% {
+		transform:  translate(0px,10px)  ;
+	}
+}
 
+@-moz-keyframes up-down{
+	0% {
+		-moz-transform:  translate(0px,10px)  ;
+	}
+	24% {
+		-moz-transform:  translate(0px,5px)  ;
+	}
+	50% {
+		-moz-transform:  translate(0px,10px)  ;
+	}
+	74% {
+		-moz-transform:  translate(0px,5px)  ;
+	}
+	100% {
+		-moz-transform:  translate(0px,10px)  ;
+	}
+}
+
+@-webkit-keyframes up-down {
+	0% {
+		-webkit-transform:  translate(0px,5px)  ;
+	}
+	24% {
+		-webkit-transform:  translate(0px,10px)  ;
+	}
+	50% {
+		-webkit-transform:  translate(0px,5px)  ;
+	}
+	74% {
+		-webkit-transform:  translate(0px,10px)  ;
+	}
+	100% {
+		-webkit-transform:  translate(0px,5px)  ;
+	}
+}
+
+@-o-keyframes up-down {
+	0% {
+		-o-transform:  translate(0px,10px)  ;
+	}
+	24% {
+		-o-transform:  translate(0px,5px)  ;
+	}
+	50% {
+		-o-transform:  translate(0px,10px)  ;
+	}
+	74% {
+		-o-transform:  translate(0px,5px)  ;
+	}
+	100% {
+		-o-transform:  translate(0px,10px)  ;
+	}
+}
+
+@-ms-keyframes up-down {
+	0% {
+		-ms-transform:  translate(0px,5px)  ;
+	}
+	24% {
+		-ms-transform:  translate(0px,10px)  ;
+	}
+	50% {
+		-ms-transform:  translate(0px,5px)  ;
+	}
+	74% {
+		-ms-transform:  translate(0px,10px)  ;
+	}
+	100% {
+		-ms-transform:  translate(0px,5px)  ;
+	}
 }
 
 
