@@ -456,9 +456,9 @@ padding-left:20px;
 }
 
 .d-flex-image{
-	width: 25%;
-	height: auto;
-
+    width: 19%;
+    height: auto;
+    margin: 5%;
 }
 
 .image1{
@@ -1443,8 +1443,21 @@ margin-left: 16%;
 .quote:hover{
 	text-decoration: none;
 }
-
-
+/* slider view */
+.carousel-indicators .active{
+	background-color: #46eeaa;
+}
+.carousel-indicators li{
+	background-color: #c8e5ff;
+}
+.carousel-indicators{
+	bottom: -50px;
+}
+@media screen and (max-width: 1350px) {
+	.carousel-control-next, .carousel-control-prev{
+		display: none !important;
+	}
+}
 @media screen and (max-width: 943px) {
 	.AboutUs h2{
 		font-size: 19px;
@@ -1497,26 +1510,6 @@ margin-left: 16%;
 	.nav-pos{
 		display: flex;
 		position: relative;
-	}
-
-	.ourworks-box p{
-		font-size: 5px;
-		line-height: 10px;
-	}
-	.our-works-head{
-		font-size: 20px;
-		font-weight: 300;
-	}
-	.ourworks-box p{
-		font-size: 12px;
-		line-height: 15px;
-	}
-	.d-flex-text h1{
-		font-size: 20px;
-		font-weight: 400;
-	}
-	.section3-box p{
-		font-size: 9px;
 	}
 
 	.introduce{
